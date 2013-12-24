@@ -1,16 +1,17 @@
 <resources>
     <string name="app_name">WirelessState</string>
     <string name="set_wireless_state_voicetrigger_keyword">set wireless</string>
-    <string name="set_wireless_state_input_prompt">say \'wifi\' or \'bluetooth\' then \'on\' or \'off\'</string>
+    <string name="set_wireless_state_input_prompt">Say \'wifi\' or \'bluetooth\' then \'on\' or \'off\'. Or say \'cancel\'</string>
 
     <string name="wifi_on">wifi on</string>
     <string name="wifi_off">wifi off</string>
     <string name="bluetooth_on">bluetooth on</string>
     <string name="bluetooth_off">bluetooth off</string>
+    <string name="cancel">cancel</string>
 
     <string name="wifi_on_confirmation">wifi is on</string>
     <string name="wifi_off_confirmation">wifi is off</string>
     <string name="bluetooth_on_confirmation">bluetooth is on</string>
     <string name="bluetooth_off_confirmation">bluetooth is off</string>
-
+    <string name="cancelled_confirmation">cancelled</string>
 </resources>
